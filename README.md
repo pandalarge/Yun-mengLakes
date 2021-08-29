@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yun-mengLakes
-- 👀 I’m interested in Internet
+- 👋 Hi, I’m @YunMengZe
+- 👀 I’m interested in Internet and Linux
 - 🌱 I’m currently learning Network of computer
 - 💞️ I’m looking to collaborate on Network Related Fields
 - 📫 How to reach me :
