@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Network of computer
 - 💞️ I’m looking to collaborate on Network Related Fields
 - 📫 How to reach me :
-      Email : Yun-menglakes@outlook.com
+      Email : Anygnix@outlook.com
       WeChat Official Account : 悟湖
       Blog : https://mylake.cn/
 <!---
