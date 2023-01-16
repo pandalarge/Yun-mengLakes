@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Network of computer
 - 💞️ I’m looking to collaborate on Network Related Fields
 - 📫 How to reach me :
-      Email : Me@Anuyoah.com
+      Email : Public@Anuyoah.com
       WeChat Official Account : None
       Blog : Stop the maintenance
 <!---
